@@ -10,7 +10,8 @@
             height: 100%;       
 }
 #p{
-	
+	font-size: 10px;
+            margin-bottom: 40px;
 }
 #h{
 	position: center;
