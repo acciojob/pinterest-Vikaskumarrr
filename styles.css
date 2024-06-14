@@ -7,11 +7,12 @@
 
 .hero-contant{  
 	margin: auto;
-	width:  500px;
+	width:  400px;
 	height: 300px;
 }
 .hero-container{
 	padding: 40px;
+	text-align: center;
 }
 #p{
 	font-size: 10px;
